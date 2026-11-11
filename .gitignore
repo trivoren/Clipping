@@ -1,0 +1,16 @@
+node_modules/
+.env
+*.log
+build/
+tmp/
+audio_temp.wav
+whisper.cpp/
+*.srt
+# Archivos generados por el pipeline de clipping (no subir a GitHub)
+data/
+out/
+.opencode/
+public/source_videos/
+public/audio/
+public/clips/
+public/fonts/
